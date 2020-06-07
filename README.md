@@ -8,5 +8,10 @@ code: ke11.ipynb
 互评作业二   
 数据集选择：[Wine Reviews](https://www.kaggle.com/zynicide/wine-reviews)。  
 code: 互评2.ipynb  
+***
+互评作业三   
+数据集选择：[Video Game Sales](https://www.kaggle.com/gregorut/videogamesales)。  
+code: GameSales.ipynb  
+
 
 by Hanxi Lin

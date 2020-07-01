@@ -12,6 +12,9 @@ code: 互评2.ipynb
 互评作业三   
 数据集选择：[Video Game Sales](https://www.kaggle.com/gregorut/videogamesales)。  
 code: GameSales.ipynb  
-
+***
+互评作业四   
+数据集选择：wine,wave。  
+code: work4_outlier.ipynb  
 
 by Hanxi Lin
